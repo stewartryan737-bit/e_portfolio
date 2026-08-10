@@ -131,7 +131,7 @@ nav {
 }
 
 .about-me__info--para {
-  font-size: 28px;
+  font-size: 20px;
   margin-bottom: 28px;
 }
 
@@ -139,12 +139,14 @@ nav {
   margin-bottom: 16px;
 }
 
-.about-me__info--socials {
-  display: flex;
-  justify-content: center;
-  gap: 16px;
-  margin-top: 28px;
+.about-me__link {
+  font-size: 20px;
+  color: #00f;
+  text-decoration: none;
+  padding: 0 16px;
 }
+
+
 
 .about-me__img--container {
   max-width: 300px;
